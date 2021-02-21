@@ -4,7 +4,7 @@ email: leoneschifoso@protonmail.com # your email shown in the footer
 url: "https://parchment-agoraphobia.github.io/acervo"  # this is your site's root address.
 baseur: "/"
 description: > # this means to ignore newlines until "show_excerpts:"
-  A clean and minimalist theme for Jekyll.
+  Acervo de Imagens, Midias, Links e Tudo Mais...
 favicon: "./favicon.ico" # set the favicon of the site 
 
 show_excerpts: false # set to true to show excerpts on the homepage
