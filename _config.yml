@@ -1,7 +1,7 @@
 title: Acervo Pessoal do Leone # The title of the blog
 author: Leone.  # Your name 
 email: your-email@domain.com # your email shown in the footer
-url: http://huangyz.name/moving/ # this is your site's root address.
+url: "https://parchment-agoraphobia.github.io/acervo"  # this is your site's root address.
 baseur: "/"
 description: > # this means to ignore newlines until "show_excerpts:"
   A clean and minimalist theme for Jekyll.
